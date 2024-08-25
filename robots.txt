@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://agendet.github.io/sitemap.html.gz
+Sitemap: https://agendet.github.io/app/sitemap.html.gz
+Sitemap: https://agendet.github.io/assets/sitemap.html.gz
+Sitemap: https://agendet.github.io/css/sitemap.html.gz
+Sitemap: https://agendet.github.io/includes/sitemap.html.gz
+Sitemap: https://agendet.github.io/item/sitemap.html.gz
+Sitemap: https://agendet.github.io/src/sitemap.html.gz
